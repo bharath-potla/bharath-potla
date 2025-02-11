@@ -1,4 +1,4 @@
-👋 Hi, I’m Bharath Potla! Welcome to My GitHub Profile!
+👋 Hi, I’m Bharath Potla! Welcome to My GitHub Profile!\n
 I’m a Full-Stack Data Engineer with a passion for building scalable, data-driven applications that solve real-world problems. 
 My journey in tech started with a Bachelor’s in Information Science from SJB Institute of Technology, Bangalore, where I built foundational skills in software development, data engineering, and cloud computing.
 I later pursued a Master’s in Data Analytics at the National College of Ireland, further deepening my expertise in data processing, machine learning, and business intelligence.
