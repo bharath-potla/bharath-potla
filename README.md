@@ -27,7 +27,7 @@ Technology is constantly evolving, and I enjoy staying ahead of the curve! My ma
 
 ☁️ Cloud Technologies – Exploring Azure DevOps, Kubernetes, and CI/CD pipelines to optimize deployments and workflows.
 
-🤖 Machine Learning – Expanding my knowledge in Data-driven applications, automation, and automated data solutions.
+🤖 Machine Learning – Expanding my knowledge in Data-driven applications and automated data solutions.
 
 🎯 Problem-Solving & Optimization – I love tackling complex challenges, optimizing performance, and building robust systems that scale.
 
