@@ -6,7 +6,7 @@ I later pursued a Master’s in Data Analytics at the National College of Irelan
 
 😄 Fun Facts About Me:
 
-🔹 This is mhy new GitHub account, and I’m excited to start sharing my projects and contributing more here!
+🔹 This is my new GitHub account, and I’m excited to start sharing my projects and contributing more here!
 
 🔹 Outside of coding, you can find me exploring new tech trends, watching sci-fi movies, or diving into data-driven insights. 🚀
 Let’s connect, collaborate, and build something amazing together! 
@@ -29,6 +29,6 @@ Technology is constantly evolving, and I enjoy staying ahead of the curve! My ma
 
 🤖 Machine Learning – Expanding my knowledge in Data-driven applications and automated data solutions.
 
-🎯 Problem-Solving & Optimization – I love tackling complex challenges, optimizing performance, and building robust systems that scale.
+🎯 Problem-Solving & Optimization – I love tackling  challenges and building robust systems that scale.
 
 
