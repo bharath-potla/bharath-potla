@@ -25,7 +25,7 @@ Technology is constantly evolving, and I enjoy staying ahead of the curve! My ma
 
 📊 Data Engineering & Analytics – Working with Apache Spark, Databricks, Kafka, and Azure to design scalable data pipelines and transform raw data into insights.
 
-☁️ Cloud Technologies – Exploring Azure DevOps, Kubernetes, and CI/CD pipelines to optimize deployments and workflows.
+☁️ Cloud Technologies – Exploring Azure DevOps, and CI/CD pipelines to optimize deployments and workflows.
 
 🤖 Machine Learning – Expanding my knowledge in Data-driven applications and automated data solutions.
 
