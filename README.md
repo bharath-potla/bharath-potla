@@ -13,8 +13,6 @@ Let’s connect, collaborate, and build something amazing together!
 
 Feel free to connect with me on:
 
-📩 Email: bharathp843@gmail.com
-
 💼 LinkedIn: http://www.linkedin.com/in/bharath-potla-7a6ba4208
 
 👀 What I’m Interested In:
